@@ -1,0 +1,8 @@
+# Make builds
+build-*
+
+# CLion
+.idea
+
+# Mac Artifacts
+.DS_Store
