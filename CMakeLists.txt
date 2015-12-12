@@ -3,4 +3,4 @@ project(arduino_modules)
 
 set(CMAKE_CONFIGURATION_TYPES "CustomType1;CustomType2" CACHE STRING "" FORCE)
 
-set(${CNAME_PROJECT_NAME}_SKETCH tagger.ino)
+set(${CNAME_PROJECT_NAME}_SKETCH sender.ino)
